@@ -1,4 +1,4 @@
-# Library System in Java with Graphical Interface
+# Library system in Java with graphical interface
 
 This repository contains a Java-based library system with a graphical user interface (GUI). It allows users to manage books and magazines within a library providing functionalities to add, search and display library resources.
 
