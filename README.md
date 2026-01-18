@@ -20,7 +20,7 @@ This repository contains a Java-based library system with a graphical user inter
 1.  Clone the repository:
 
     ```bash
-    git clone https://github.com/panoschron97/Library_system_in_java_with_graphical_interface.git
+    git clone https://github.com/GMKAKISTOS/Library_system_in_java_with_graphical_interface.git
     ```
 
 2.  Navigate to the project directory:
